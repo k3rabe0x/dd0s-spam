@@ -20,4 +20,4 @@ python2 GAMKERS-DDOS.py
 ```
 
 Your tool install & setup is done, now go to Google & Search`Website IP Finder`
-After Getting The Website IP , Copy The IP & Come To The Termux.. Now Paste The Target Website IP On `Ip Target:` & Give The Port Number `8080`
+After Getting The Website IP , Copy The IP now Paste The Target Website IP On `Ip Target:` & Give The Port Number `8080`
